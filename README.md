@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheshbadi
+- 👋 Hi, I’m Sheshbadi
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on ...
